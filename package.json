@@ -1,0 +1,25 @@
+{
+  "name": "mongodb_tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^8.0.1",
+    "mongoose": "^5.9.25"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tulbadex/mongodb.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tulbadex/mongodb/issues"
+  },
+  "homepage": "https://github.com/tulbadex/mongodb#readme"
+}
